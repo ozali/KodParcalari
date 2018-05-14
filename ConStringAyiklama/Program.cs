@@ -10,6 +10,12 @@ namespace ConStringAyiklama
     {
         static void Main(string[] args)
         {
+            //Aşağıdaki gibi bir sehirler string'i içerisindeki illeri virgullerden (,) ayırarak illeri tek tek elde 
+            //edip bir string dizisi içine nasıl atarız.
+            string sehirler = "antalya, ankara, istanbul, denizli";
+
+            //ÇÖZÜM:
+
         }
     }
 }
