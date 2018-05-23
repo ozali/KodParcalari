@@ -12,7 +12,7 @@ namespace ConStringAyiklama
         {
             //Aşağıdaki gibi bir sehirler string'i içerisindeki illeri virgullerden (,) ayırarak illeri tek tek elde 
             //edip bir string dizisi içine nasıl atarız....
-            //Bu proje https://github.com/ozali/KodParcalari adresinde tutulacak...
+            //Bu proje https://github.com/ozali/KodParcalari adresinde tutulacak...---
             string sehirler = "antalya, ankara, istanbul, denizli";
 
             //ÇÖZÜM:
